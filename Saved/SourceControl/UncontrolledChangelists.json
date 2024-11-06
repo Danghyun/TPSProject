@@ -7,7 +7,10 @@
 			"files": [
 				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/Maps/TSPMap.umap",
-				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/Maps/TPSMap.umap"
+				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/Maps/TPSMap.umap",
+				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/Blueprints/BP_TPSPlayer.uasset",
+				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/Blueprints/BP_TPSProjectGameModeBase.uasset",
+				"C:/Users/OWNER/Documents/Unreal Projects/TPSProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 			]
 		}
 	]
